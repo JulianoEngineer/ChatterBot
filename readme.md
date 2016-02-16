@@ -7,6 +7,8 @@ Python which makes it possible to generate responses based on collections of
 known conversations. The language independent design of ChatterBot allows it
 to be trained to speak any language.
 
+*Read this in other languages: [Português](readme.pt.md).*
+
 [![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
 [![Requirements Status](https://requires.io/github/gunthercox/ChatterBot/requirements.svg?branch=master)](https://requires.io/github/gunthercox/ChatterBot/requirements/?branch=master)
 [![Build Status](https://travis-ci.org/gunthercox/ChatterBot.svg?branch=master)](https://travis-ci.org/gunthercox/ChatterBot)
